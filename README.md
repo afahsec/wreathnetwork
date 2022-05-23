@@ -1,1 +1,1 @@
-# wreathnetwork
+# TryHackMe Wreath Network
